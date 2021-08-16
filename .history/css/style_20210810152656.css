@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+}
+
+/* solution with h1 only */
+
+h1 {
+  background-color: #281b2d;
+  color: #fff;
+  text-align: center;
+  font-size: 72px;
+  margin-top: 0;
+  padding: 25px 0;
+}
+
+.subhead {
+  background-color: #281b2d;
+  color: #fcd801;
+  font-size: 48px;
+  padding: 20px;
+  border-bottom: 5px solid #00c54c;
+}
+
+.white-text {
+  color: #fff;
+}
+
+.container {
+  max-width: 62.5rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.columns {
+  display: flex;
+}
+
+.col-right {
+  margin-left: 1rem;
+}
+
+.main-content {
+  width: 65%;
+  margin-right: 5%;
+}
+
+.sidebar {
+  width: 30%;
+}
+
+.sidebar {
+  background-color: #9ae84f;
+}

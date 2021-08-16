@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 1rem 0rem;
+  margin-top: 0;
+  font-size: 4.5rem;
+}
+
+.subhead {
+  background-color: black;
+  color: #fcd801;
+  font-size: 3rem;
+  padding: 1.25rem;
+  border-bottom: 0.4rem #00c54c solid;
+}
+
+.white-text {
+  color: white;
+}
+
+.container {
+  border: 1px solid red;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0rem 1rem;
+}
+
+.columns {
+  display: flex;
+}
+
+.col-right {
+  margin-left: 1rem;
+}
